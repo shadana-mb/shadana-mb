@@ -5,13 +5,13 @@
 - <b>Survey Form</b>
   - [Learning html forms](https://shadana-mb.github.io/Survey-form/)
 - <b>Tribute Page </b>
-  - [Image Analysis Middleware](https://shadana-mb.github.io/Survey-form/)
+  - [html, css-accessibility](https://shadana-mb.github.io/Survey-form/)
 - <b>Technical Documentation Page</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://shadana-mb.github.io/Survey-form/)
+  - [html, css, table, flexbox, responsiveness](https://shadana-mb.github.io/Survey-form/)
 - <b>Product Landing Page </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://shadana-mb.github.io/Survey-form/)
+  - [html, css- ](https://shadana-mb.github.io/Survey-form/)
 - <b>Personal Portfolio</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://shadana-mb.github.io/Survey-form/)
+  - [html css](https://shadana-mb.github.io/Survey-form/)
 
 
 
