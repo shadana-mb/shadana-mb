@@ -1,4 +1,5 @@
 <h1>Hi, I'm Shadana! </h1>
+<h2>I'm a front-end developer. </h>
 
 <h2>👨‍💻 Responsive Web Design Projects:</h2>
 
