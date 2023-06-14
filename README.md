@@ -3,16 +3,14 @@
 
 <h3>👨‍💻 Responsive Web Design Projects:</h3>
 
+- <b>Website Template</b>
+  - [html, css, sass, responsive](https://shadana-mb.github.io/website-template/)
 - <b>Survey Form</b>
   - [Learning html forms](https://shadana-mb.github.io/Survey-form/)
 - <b>Tribute Page </b>
-  - [html, css-accessibility](https://shadana-mb.github.io/Survey-form/)
+  - [html, css-accessibility](https://shadana-mb.github.io/tribute-page/)
 - <b>Technical Documentation Page</b>
-  - [html, css, table, flexbox, responsiveness](https://shadana-mb.github.io/Survey-form/)
-- <b>Product Landing Page </b>
-  - [html, css- ](https://shadana-mb.github.io/Survey-form/)
-- <b>Personal Portfolio</b>
-  - [html css](https://shadana-mb.github.io/Survey-form/)
+  - [html, css, table, flexbox, responsiveness](https://shadana-mb.github.io/technical-documentation/)
 
 
 
@@ -25,7 +23,7 @@
 
 [twitter]: https://twitter.com/ShadanaMb
 [instagram]: https://www.instagram.com/shadana-mb/
-[linkedin]: https://linkedin.com/in/shadi-mesbahi-4b555196/
+[linkedin]: https://linkedin.com/in/shadi-mesbahi/
 
 
 
